@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on almost everything
-- 📫 How to reach me on jayv2024
+- 📫 How to reach me on GH/jayv2024
 - 😄 Pronouns: ...
 - ⚡ Fun fact: there are as many planets in the solar system as there were yesterday.
 
